@@ -1,4 +1,5 @@
-### Hi there 👋
+### Frontend student of the ![Hexlet Badge](https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat?link=http://Github.com&link=https://ru.hexlet.io/) school
+
 
 <!--
 **igshipilov/igshipilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
