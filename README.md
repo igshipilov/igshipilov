@@ -7,10 +7,13 @@ Frontend Developer
 I'm a former motion designer with a deep dive into programming and a passion for creating tools that are simple and fun to use.
 Currently student of the ![Hexlet Badge](https://img.shields.io/badge/Hexlet-116EF5?logo=hexlet&logoColor=fff&style=flat?link=http://Github.com&link=https://ru.hexlet.io/) school
 
-* 🌍  Passionate Frontend developer from Biysk, Russia.
+* 🌍  Passionate Frontend developer from Biysk, Russia
 * 👨‍🎓  Continously improving my skills: study principles, mastering them during practice
 * 💼  I'm looking for full-time, part-time office or remote work
 * ✉️  You can contact me at [igor\_shipilov@inbox.ru](mailto:igor_shipilov@inbox.ru)
+
+### My CV: [link](https://cv.hexlet.io/ru/resumes/3267)
+
 
 ### Skills
 
