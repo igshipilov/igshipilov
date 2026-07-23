@@ -1,8 +1,6 @@
 Hello there! My name is Igor Shipilov
 ==============================
 
-Frontend Developer
-------------------
 
 * 🌍  Frontend developer from Barnaul, Russia
 * 👨‍🎓  Continously improving my skills: study principles, mastering them during practice
